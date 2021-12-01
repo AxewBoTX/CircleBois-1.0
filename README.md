@@ -2,7 +2,9 @@
 CircleBois Version 1.0
 
 This is a Game Of Circle!
+
 This is a Game About Circles!
+
 This is a Game For Circle!
 
 CIRCLES!!!
