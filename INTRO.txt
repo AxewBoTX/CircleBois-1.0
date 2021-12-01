@@ -1,0 +1,25 @@
+Heyo Buddie!
+This is Circle BOIS
+*basically shit*
+
+so....
+
+INTO; yea into
+
+You spawn with 50 Score Points
+
+touching the green ball increases them by 10
+.
+..
+...
+obviously touching the red bal woould decrease them by 10
+
+Make sure these points dont reach 0
+
+your goal is to reach 500 Score Points
+
+and;
+
+You can use WASD keys to move your Circle BOI
+
+ENJOY!!
